@@ -50,7 +50,7 @@ afterEvaluate {
 
                 groupId = 'com.github.Anshul1507'
                 artifactId = 'validatetor'
-                version = 'v0.1.2'
+                version = 'v0.1.3'
             }
         }
     }
