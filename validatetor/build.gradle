@@ -49,7 +49,7 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.github.Anshul1507'
-                artifactId = 'validatetor'
+                artifactId = 'Validatetor'
                 version = 'v0.1.3'
             }
         }

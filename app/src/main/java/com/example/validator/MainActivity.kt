@@ -9,7 +9,7 @@ import com.example.validator.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private val viewBinding by lazy { ActivityMainBinding.inflate(layoutInflater) }
-    private lateinit var validateTor: ValidateTor
+    private lateinit var validateTor:
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
