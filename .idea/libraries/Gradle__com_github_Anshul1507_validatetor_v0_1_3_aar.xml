@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: com.github.Anshul1507:validatetor:v0.1.3@aar">
+  <library name="Gradle: com.github.Anshul1507:Validatetor:v0.1.3@aar">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ae323fcf2c84504e877cbbbaafe75f13/transformed/jetified-validatetor-v0.1.3/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ae323fcf2c84504e877cbbbaafe75f13/transformed/jetified-validatetor-v0.1.3/res" />
@@ -7,7 +7,7 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Anshul1507/validatetor/v0.1.3/a8d86f16e60d750e216fb78a02d1040b86fc5acc/validatetor-v0.1.3-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Anshul1507/validatetor/v0.1.3/e92dfa16fdec686f083909ed23ec5462e9897903/Validatetor-v0.1.3-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
